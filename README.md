@@ -1,2 +1,3 @@
 # JavaScript-Interview-Preparation
-Folder LeetCode - coding questios in JavaScript
+Folder LeetCode - coding questions in JavaScript from LeetCode
+1. TwoSum
