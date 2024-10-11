@@ -10,3 +10,5 @@ Folder LeetCode - coding questions in JavaScript from LeetCode
 Folder CodeSignal - coding questions in JavaScript from CodeSignal
 1. Palindrome
 2. Add Border
+3. All Longest Strings
+4. Matrix Elements Sum
