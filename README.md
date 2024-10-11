@@ -4,6 +4,8 @@ Folder LeetCode - coding questions in JavaScript from LeetCode
 2. Reverse Integer
 3. Find the Difference
 4. Maximum Subarray
+5. Valid Parentheses
+6. Merge Two Sorted Lists
 
 Folder CodeSignal - coding questions in JavaScript from CodeSignal
 1. Palindrome
