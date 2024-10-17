@@ -6,6 +6,8 @@ Folder LeetCode - coding questions in JavaScript from LeetCode
 4. Maximum Subarray
 5. Valid Parentheses
 6. Merge Two Sorted Lists
+7. Palindrome Number
+8. Valid Palindrome
 
 Folder CodeSignal - coding questions in JavaScript from CodeSignal
 1. Palindrome
